@@ -220,5 +220,11 @@ footer{
     padding: 20px 35px;
     border-radius: 8px;
     background: #005FAC;
+    width: 160px;
+    height: 64px;   
+    border-radius: 5px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
 
 }
