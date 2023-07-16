@@ -3,6 +3,45 @@
     font-family: 'Work Sans', sans-serif;
 }
 /* header section style */
+
+/* nav section style */
+.greet{
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 50px;
+    align-items: center;
+    color: whitesmoke;
+}
+/* .nav-link{
+    font-size: 18px;
+    color: whitesmoke;
+} */
+.nav-link li{
+    
+    display: inline-block;
+    list-style: none;
+    padding-left: 5px;
+}
+.nav-link li a{
+    margin-top: 10px;
+    font-size: 20px;
+    color: whitesmoke;
+}
+.btn-greet{
+    margin-top: 20px;
+    width: 160px;
+    height: 64px;   
+    border-radius: 5px;
+    background: #FFF;
+    color: #005FAC;
+    font-size: 20px;
+    font-weight: 600;
+}
 .header{
     width: 1600px;
     height: 808px;
